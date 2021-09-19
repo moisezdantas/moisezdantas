@@ -2,8 +2,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Eu estou estudando Typescript,Node,TDD,Jest
-
  <div>
   <a href="https://github.com/moisezdantas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moisezdantas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
