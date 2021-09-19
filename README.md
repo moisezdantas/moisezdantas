@@ -1,6 +1,4 @@
-### Olá eu sou Moisez Dantas 👋
-
-Here are some ideas to get you started:
+### Olá eu sou Moisez Dantas!
 
  <div>
   <a href="https://github.com/moisezdantas">
